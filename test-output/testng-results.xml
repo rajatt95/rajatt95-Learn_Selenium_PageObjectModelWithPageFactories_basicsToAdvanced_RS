@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="30435" started-at="2021-02-10T23:16:39 IST" finished-at="2021-02-10T23:17:10 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="30435" started-at="2021-02-10T23:16:39 IST" finished-at="2021-02-10T23:17:10 IST">
+      <class name="com.learning.testcases.pageFactories.RediffTest_PF">
+        <test-method status="PASS" signature="Login()[pri:0, instance:com.learning.testcases.pageFactories.RediffTest_PF@23faf8f2]" name="Login" duration-ms="30355" started-at="2021-02-10T23:16:39 IST" finished-at="2021-02-10T23:17:10 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+      </class> <!-- com.learning.testcases.pageFactories.RediffTest_PF -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
